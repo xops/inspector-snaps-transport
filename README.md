@@ -12,11 +12,11 @@ This adds [Metamask Snaps](https://github.com/MetaMask/metamask-snaps-beta) supp
 6. Select `POSTMESSAGE` as the transport type
 7. Click `Add Transport`
 
-![image](https://user-images.githubusercontent.com/364566/77789987-401b8b00-7021-11ea-84b8-1c42576db291.png)
+![add_transport](https://user-images.githubusercontent.com/364566/77793417-40b72000-7027-11ea-9acb-615d2196848e.png)
 
 8. use your snap id as the url: `wallet_plugin_http://localhost:8081/package.json`
 
-![image](https://user-images.githubusercontent.com/364566/77790281-c8019500-7021-11ea-8f86-1a41b49cea6d.png)
+![image](https://user-images.githubusercontent.com/364566/77793507-6f34fb00-7027-11ea-8201-fb5c64b644b8.png)
 
 ### Contributing
 
