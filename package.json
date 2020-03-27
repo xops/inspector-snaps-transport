@@ -5,11 +5,11 @@
   "description": "",
   "main": "build/index.js",
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
+    "start": "npm run typings && react-scripts start",
+    "build": "npm run typings && react-scripts build",
     "typings": "open-rpc-typings -d src/openrpc.json --output-ts src/__GENERATED_TYPES__/",
     "lint": "tslint --fix -p .",
-    "test": "npm run lint && react-scripts test --coverage --passWithNoTests"
+    "test": "npm run typings && npm run lint && react-scripts test --coverage --passWithNoTests"
   },
   "author": "",
   "license": "Apache-2.0",
