@@ -19,6 +19,7 @@ This adds [Metamask Snaps](https://github.com/MetaMask/metamask-snaps-beta) supp
 ![image](https://user-images.githubusercontent.com/364566/77793507-6f34fb00-7027-11ea-8201-fb5c64b644b8.png)
 
 9. if your snap supports the [rpc.discover](https://spec.open-rpc.org/#service-discovery-method) method you can get features like auto completion for the request:
+
 ![image](https://user-images.githubusercontent.com/364566/77794498-401f8900-7029-11ea-92c4-8363b7c5ec40.png)
 
 ### Contributing
