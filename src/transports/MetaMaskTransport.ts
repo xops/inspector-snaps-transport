@@ -9,7 +9,7 @@ class MetaMaskTransport extends Transport {
     this.uri = uri;
   }
   public async connect(): Promise<any> {
-    const results = await (window as any).ethereum.send({
+    const results = await (window as any).ethereum.request({
       method: "wallet_enable",
       params: [{
         [this.uri]: {},
@@ -19,7 +19,7 @@ class MetaMaskTransport extends Transport {
   }
 
   public async sendData(data: JSONRPCRequestData, timeout: number | undefined = 5000): Promise<any> {
-    return (window as any).ethereum.send({
+    return (window as any).ethereum.request({
       method: this.uri,
       params: [
         (data as IJSONRPCData).request,
