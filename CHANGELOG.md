@@ -1,3 +1,13 @@
+## [1.0.1](https://github.com/xops/inspector-snaps-transport/compare/1.0.0...1.0.1) (2021-08-25)
+
+
+### Bug Fixes
+
+* **README:** add extra step to show completion ([7b0a054](https://github.com/xops/inspector-snaps-transport/commit/7b0a054829804c80c3621f887c974cb8b8bd0e98))
+* **README:** update instruction screenshots ([b64bc66](https://github.com/xops/inspector-snaps-transport/commit/b64bc663ad7fd8a866bc1782203c4b604fbb60e7))
+* **README:** whitespace ([e5da952](https://github.com/xops/inspector-snaps-transport/commit/e5da9521f720269fe790602f37a2cd43365b7867))
+* update to use window.etheruem.request instead of window.etheruem.send ([aa7b281](https://github.com/xops/inspector-snaps-transport/commit/aa7b2815f4dffe62c48384a0c79c6c21f456d882))
+
 # 1.0.0 (2020-03-27)
 
 
