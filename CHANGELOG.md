@@ -1,3 +1,11 @@
+## [1.0.2](https://github.com/xops/inspector-snaps-transport/compare/1.0.1...1.0.2) (2022-01-11)
+
+
+### Bug Fixes
+
+* circleci ([848034b](https://github.com/xops/inspector-snaps-transport/commit/848034bf1839425c8398dd4dcaae00566d2c7a1a))
+* updated ([c4521d2](https://github.com/xops/inspector-snaps-transport/commit/c4521d2290e731821c02fbdad0b114e67b5f8927))
+
 ## [1.0.1](https://github.com/xops/inspector-snaps-transport/compare/1.0.0...1.0.1) (2021-08-25)
 
 
