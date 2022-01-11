@@ -12,7 +12,9 @@ class MetaMaskTransport extends Transport {
     const results = await (window as any).ethereum.request({
       method: "wallet_enable",
       params: [{
-        [this.uri]: {},
+        wallet_snap: {
+          [this.uri]: {},
+        }
       }],
     });
     return results;
