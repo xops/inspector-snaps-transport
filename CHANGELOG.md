@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/xops/inspector-snaps-transport/compare/1.0.2...1.0.3) (2022-01-11)
+
+
+### Bug Fixes
+
+* added wallet_invokeSnap to call methods instead of raw snapId ([09c4e36](https://github.com/xops/inspector-snaps-transport/commit/09c4e3638148673bf0ec336df50541b93c99139b))
+
 ## [1.0.2](https://github.com/xops/inspector-snaps-transport/compare/1.0.1...1.0.2) (2022-01-11)
 
 
