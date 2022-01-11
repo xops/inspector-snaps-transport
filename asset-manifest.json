@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/inspector-snaps-transport/static/js/main.21e02411.chunk.js",
-    "main.js.map": "/inspector-snaps-transport/static/js/main.21e02411.chunk.js.map",
+    "main.js": "/inspector-snaps-transport/static/js/main.0ce466a0.chunk.js",
+    "main.js.map": "/inspector-snaps-transport/static/js/main.0ce466a0.chunk.js.map",
     "runtime~main.js": "/inspector-snaps-transport/static/js/runtime~main.3e47632c.js",
     "runtime~main.js.map": "/inspector-snaps-transport/static/js/runtime~main.3e47632c.js.map",
     "static/js/2.b28d466b.chunk.js": "/inspector-snaps-transport/static/js/2.b28d466b.chunk.js",
     "static/js/2.b28d466b.chunk.js.map": "/inspector-snaps-transport/static/js/2.b28d466b.chunk.js.map",
     "index.html": "/inspector-snaps-transport/index.html",
-    "precache-manifest.0e673aca0716b695d08948a5e719059a.js": "/inspector-snaps-transport/precache-manifest.0e673aca0716b695d08948a5e719059a.js",
+    "precache-manifest.62ccf5cbc84c13d09062200ba87680e8.js": "/inspector-snaps-transport/precache-manifest.62ccf5cbc84c13d09062200ba87680e8.js",
     "service-worker.js": "/inspector-snaps-transport/service-worker.js"
   }
 }
