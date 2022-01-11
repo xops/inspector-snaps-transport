@@ -2,6 +2,7 @@
 
 This adds [Metamask Snaps](https://github.com/MetaMask/metamask-snaps-beta) support to the [OpenRPC inspector](http://inspector.open-rpc.org).
 
+
 ## Install Instructions
 
 1. Go to http://inspector.open-rpc.org
