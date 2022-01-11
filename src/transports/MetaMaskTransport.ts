@@ -22,10 +22,8 @@ class MetaMaskTransport extends Transport {
 
   public async sendData(data: JSONRPCRequestData, timeout: number | undefined = 5000): Promise<any> {
     return (window as any).ethereum.request({
-      method: this.uri,
-      params: [
-        (data as IJSONRPCData).request,
-      ],
+      method: 'wallet_invokeSnap',
+      params: [this.uri, (data as IJSONRPCData).request],
     });
   }
 
